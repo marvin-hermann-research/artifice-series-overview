@@ -13,7 +13,7 @@ Key aspects:
 
 * **Modular hardware:** Scalable to different sizes, sensor configurations, and actuators.
 * **Autonomous locomotion:** Start as crawler, evolve to quadrupedal systems with animal-inspired gaits.
-* **Integration with AETHER framework:** Centralized control for gait planning, sensor fusion, and motion management.
+* **Integration with [AETHER framework](https://github.com/marvin-hermann-research/aether-framework-overview.git):** Centralized control for gait planning, sensor fusion, and motion management.
 * **Research platform:** Supports AI experiments, multi-robot collaboration, and field testing.
 * **Visionary:** Early step toward emotionally-aware robotic agents.
 
